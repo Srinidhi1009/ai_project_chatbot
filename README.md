@@ -41,18 +41,18 @@ Webbrowser Module
 |-- intents.json          # Dataset of intents and responses
 |-- images.py             # Image URL categories
 
- #How to Run
+ # How to Run
 
- #Install required modules:
+ # Install required modules:
 
 pip install pandas numpy scikit-learn
 
 
- #Run the application:
+ # Run the application:
 
 python main.py
 
- #Learning Outcomes
+ # Learning Outcomes
 
 Applied NLP feature extraction (TF-IDF)
 
@@ -62,14 +62,14 @@ Worked with browser automation for multimedia features
 
 Improved debugging and project structuring skills
 
- #Future Enhancements
+ # Future Enhancements
 
  Speech recognition
  More response categories
  Database storage for chat history
  Model improvement using neural networks
 
- #Developer
+ # Developer
 
 Mudumba Srinidhi
 B.Tech – Artificial Intelligence & Machine Learning
