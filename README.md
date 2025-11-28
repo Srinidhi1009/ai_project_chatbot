@@ -48,7 +48,7 @@ Webbrowser Module
 # Folder containing screenshots (to upload)
 └── assets/               
 # OUTPUTS
-![image alt](Screenshot 2025-11-28 164917.png)  
+![image alt](https://github.com/Srinidhi1009/ai_project_chatbot/blob/7ad9d9b6118c1445c41d1a86b0603ed76cef0fe8/Screenshot%202025-11-28%20164917.png)  
 
  # How to Run
 
