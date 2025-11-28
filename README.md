@@ -82,4 +82,4 @@ Improved debugging and project structuring skills
  # Developer
 
 Mudumba Srinidhi
-B.Tech – Artificial Intelligence & Machine Learning
+B.Tech – CSE
