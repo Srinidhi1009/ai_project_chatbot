@@ -47,7 +47,8 @@ Webbrowser Module
 ├── images.py 
 # Folder containing screenshots (to upload)
 └── assets/               
-
+# OUTPUTS
+![image alt]()  
 
  # How to Run
 
