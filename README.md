@@ -48,7 +48,7 @@ Webbrowser Module
 # Folder containing screenshots (to upload)
 └── assets/               
 # OUTPUTS
-![image alt]()  
+![image alt](Screenshot 2025-11-28 164917.png)  
 
  # How to Run
 
