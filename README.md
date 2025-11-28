@@ -49,7 +49,7 @@ Webbrowser Module
 └── assets/               
 # OUTPUTS
 ![image alt](https://github.com/Srinidhi1009/ai_project_chatbot/blob/7ad9d9b6118c1445c41d1a86b0603ed76cef0fe8/Screenshot%202025-11-28%20164917.png)  
-
+![image alt](https://github.com/Srinidhi1009/ai_project_chatbot/blob/bc111bb7c6d26fb482f42ac1503378059f2706f3/Screenshot%202025-11-28%20165012.png)
  # How to Run
 
  # Install required modules:
