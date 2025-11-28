@@ -34,12 +34,15 @@ Pickle (model storage)
 
 Webbrowser Module
 
-# Project Structure
-|-- main.py               # GUI + chatbot logic
-|-- model.pkl             # Trained ML classification model
-|-- vectorizer.pkl        # TF-IDF vectorizer
-|-- intents.json          # Dataset of intents and responses
-|-- images.py             # Image URL categories
+📂 Project Structure
+│
+├── main.py               # GUI + chatbot logic
+├── model.pkl             # Trained ML classification model
+├── vectorizer.pkl        # TF-IDF vectorizer
+├── intents.json          # Dataset of intents and responses
+├── images.py             # Image URL categories for buttons
+└── assets/               # Folder containing screenshots (to upload)
+
 
  # How to Run
 
